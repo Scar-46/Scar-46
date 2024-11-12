@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Oscar Fernández Jiménez!
+# Hi, I'm Oscar Fernández Jiménez!
 
 **Computer Science Student** at the University of Costa Rica.  
 Passionate about Machine Learning, Networking, Game Development, and solving complex problems.
