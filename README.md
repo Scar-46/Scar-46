@@ -11,4 +11,7 @@ Passionate about Machine Learning, Networking, Game Development, and solving com
 - **SQL** (Database Management, Data Analysis)
 ## 🌱 I’m always exploring new technologies and looking for exciting projects to work on!
 
+### 🌐 Other Platforms
+- [UCR GitLab Projects](https://git.ucr.ac.cr/OSCAR.FERNANDEZJIMENEZ)
+
 Feel free to connect or collaborate! 🚀
