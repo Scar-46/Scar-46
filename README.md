@@ -7,6 +7,7 @@ Passionate about Machine Learning, Networking, Game Development, and solving com
 ## 🔧 Languages & Tools
 - **Python** (Data Science, ML, Deep Learning)
 - **C/C++** (Systems Programming, Networking)
+- **C#**  (Game Development, .NET Services)
 - **Java** (OOP, Android Development)
 - **SQL** (Database Management, Data Analysis)
 ## 🌱 I’m always exploring new technologies and looking for exciting projects to work on!
